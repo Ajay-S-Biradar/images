@@ -3,21 +3,21 @@
         "url": "IMG_20230328_231050.jpg",
         "date": "",
         "people": ["ajay","hardik"],
-        "place": "",
-        "orientation": ""
+        "place": "MC PG",
+        "orientation": "vertical"
     },
     {
         "url": "IMG_20230329_003031.jpg",
         "date": "",
-        "people": [],
-        "place": "",
-        "orientation": ""
+        "people": ["ajay","hardik","ayush"],
+        "place": "MC PG",
+        "orientation": "horizontal"
     },
     {
         "url": "IMG_20230329_064830.jpg",
         "date": "",
-        "people": [],
-        "place": "",
+        "people": ["ajay","hardik","ayush","yash","sujal","ashish","shubham","shivam"],
+        "place": "Train to Wonderla",
         "orientation": ""
     },
     {
@@ -37,9 +37,9 @@
     {
         "url": "IMG_20230329_103100.jpg",
         "date": "",
-        "people": [],
-        "place": "",
-        "orientation": ""
+        "people": ["ajay","ayush"],
+        "place": "Wonderla",
+        "orientation": "vertical"
     },
     {
         "url": "IMG_20230329_103103.jpg",

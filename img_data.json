@@ -2,7 +2,7 @@
     {
         "url": "IMG_20230328_231050.jpg",
         "date": "",
-        "people": [],
+        "people": ["ajay","hardik"],
         "place": "",
         "orientation": ""
     },
